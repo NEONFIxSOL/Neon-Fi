@@ -1,0 +1,53 @@
+.right {
+}
+.left {
+  position: relative;
+  width: 482px;
+  flex: 0 0 482px;
+  height: 665px;
+}
+.tokenWrap {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 482px;
+  height: 376px;
+  background: linear-gradient(180deg, rgba(28, 24, 74, 0) 0%, #1c184a 100%);
+  padding: 0 35px 55px 35px;
+}
+.token {
+  font-family:
+    PingFangSC,
+    PingFang SC;
+  font-weight: 500;
+  font-size: 22px;
+  color: #64d1ff;
+  line-height: 30px;
+  font-style: normal;
+}
+
+.right {
+  flex: 1;
+  height: 665px;
+  background: #282363;
+  border-radius: 8px;
+  padding: 45px 34px;
+}
+.right .title {
+  font-family: Avenir, Avenir;
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+  line-height: 27px;
+  font-style: normal;
+  margin-bottom: 86px;
+}
+.right .doc {
+  font-family: Avenir, Avenir;
+  font-weight: 500;
+  font-size: 20px;
+  color: #666666;
+  line-height: 27px;
+  text-align: center;
+  font-style: normal;
+}

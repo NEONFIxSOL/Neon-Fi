@@ -1,0 +1,71 @@
+export const chains = [
+  {
+    title: 'Arbitrum',
+    icon: '/img/chain_arbitrum.svg',
+    id: 42161,
+    rpcUrl: 'https://arbitrum-mainnet.infura.io',
+    nativeCurrency: {
+      name: 'Ether',
+      symbol: 'ETH',
+      decimals: 18,
+    },
+    blockExplorerUrls: ['https://arbiscan.io'],
+  },
+  {
+    title: 'Avalanche',
+    icon: '/img/chain_avalanche.svg',
+    rpcUrl: 'https://api.avax.network/ext/bc/C/rpcapi.avax.network/ext/bc/C/rpc',
+    id: 43114,
+    // id: '0xa86a',
+    nativeCurrency: {
+      name: 'Avalanche',
+      symbol: 'AVAX',
+      decimals: 18,
+    },
+    blockExplorerUrls: ['https://snowtrace.io/'],
+  },
+  {
+    title: 'Bnb Chain',
+    icon: '/img/chain_bnb.svg',
+    rpcUrl: 'https://bsc-dataseed.binance.org/',
+    // id: '0x38',
+    id: 56,
+    // id: '0x38',
+    nativeCurrency: {
+      name: 'Binance Coin',
+      symbol: 'BNB',
+      decimals: 18,
+    },
+    blockExplorerUrls: ['https://bscscan.com'],
+  },
+  {
+    title: 'Ethereum',
+    icon: '/img/chain_ethereum.svg',
+    rpcUrl: 'https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID',
+    id: 1,
+    // id: '0x1',
+    nativeCurrency: {
+      name: 'Ether',
+      symbol: 'ETH',
+      decimals: 18,
+    },
+    blockExplorerUrls: ['https://etherscan.io'],
+  },
+  {
+    title: 'Polygon',
+    icon: '/img/chain_polygon.svg',
+    rpcUrl: 'https://polygon-rpc.com/',
+    // id: '0x89',
+    id: 137,
+    nativeCurrency: {
+      name: 'Matic',
+      symbol: 'MATIC',
+      decimals: 18,
+    },
+    blockExplorerUrls: ['https://polygonscan.com'],
+  },
+  {
+    title: 'Solana',
+    icon: '/img/chain_solana.svg',
+  },
+]

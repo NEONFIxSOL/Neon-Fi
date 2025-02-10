@@ -1,0 +1,22 @@
+.moduleTitle {
+  font-family: ErasITC, ErasITC;
+  font-weight: bold;
+  font-size: 42px;
+  color: #ffffff;
+  line-height: 49px;
+  font-style: normal;
+}
+.subTitle {
+  font-family: Helvetica;
+  font-size: 24px;
+  color: #ffffff;
+  line-height: 24px;
+  font-style: normal;
+}
+
+.freshWrap {
+  margin-bottom: 195px;
+}
+.freshRight {
+  flex: 0 0 647px;
+}

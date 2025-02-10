@@ -1,0 +1,27 @@
+.box {
+}
+.title {
+  font-family: Helvetica, Helvetica;
+  font-weight: bold;
+  font-size: 32px;
+  color: rgba(145, 131, 255, 0.6);
+  line-height: 44px;
+  text-align: left;
+  font-style: normal;
+  margin-bottom: 12px;
+}
+.subTitle {
+  font-family: Helvetica, Helvetica;
+  font-weight: 300;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 19px;
+  text-align: left;
+  font-style: normal;
+}
+.isSelected .title {
+  color: rgba(145, 131, 255);
+}
+.isSelected .subTitle {
+  color: rgba(255, 255, 255, 1);
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="103px" height="103px" viewBox="0 0 103 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 21</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-5" transform="translate(-209, -1907)">
+            <g id="Group-6" transform="translate(209, 1883)">
+                <g id="Group-21" transform="translate(0, 24)">
+                    <circle id="Oval" fill="#221E43" cx="51.5" cy="51.5" r="51.5"></circle>
+                    <rect id="Rectangle" fill="#ADA3FD" x="34" y="50" width="34" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#ADA3FD" transform="translate(51, 51.5) rotate(-270) translate(-51, -51.5)" x="34" y="50" width="34" height="3" rx="1.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

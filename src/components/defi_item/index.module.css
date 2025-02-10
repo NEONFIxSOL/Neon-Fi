@@ -1,0 +1,19 @@
+.box {
+}
+.title {
+  font-family: Helvetica, Helvetica;
+  font-weight: bold;
+  font-size: 29px;
+  color: #9183ff;
+  line-height: 40px;
+  font-style: normal;
+  margin-bottom: 16px;
+}
+.subTitle {
+  font-family: Helvetica, Helvetica;
+  font-weight: 300;
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 17px;
+  font-style: normal;
+}

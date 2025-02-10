@@ -1,0 +1,12 @@
+.btn {
+  background: #64d1ff;
+  border-radius: 7px;
+  padding: 14px 16px;
+  font-family: Avenir, Avenir;
+  font-weight: 800;
+  font-size: 22px;
+  color: #ffffff;
+  line-height: 30px;
+  text-align: left;
+  font-style: normal;
+}
