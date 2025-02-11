@@ -51,7 +51,7 @@ export default function Home() {
   }
 
   const toX = () => {
-    window.open('https://x.com/Neon_Finance')
+    window.open('https://x.com/NeonFixSOL')
   }
   const toTerms = () => {
     window.open('https://neonfi.gitbook.io/neonfi/other/terms-and-conditions')
